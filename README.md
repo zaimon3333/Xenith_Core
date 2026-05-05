@@ -30,6 +30,7 @@ The design is built around three key functional blocks:
 ---
 
 📁 File Structure
+
 Xenith_Core/
 │
 ├── xenith_design.v          # RTL Design File
