@@ -29,20 +29,6 @@ The design is built around three key functional blocks:
 
 ---
 
-📁 File Structure
-
-Xenith_Core/
-│
-├── xenith_design.v          # RTL Design File
-├── xenith_testbench.v       # Testbench
-├── design_area.rep          # Area Report
-├── design_gates.rep         # Gate Level Report
-├── design_netlist.v         # Synthesized Netlist
-├── design_power.rep         # Power Report
-├── design_timing.rep        # Timing Report
-└── waves.shm/               # Waveform Data
-
----
 
 ⚙️ Design Details
 
